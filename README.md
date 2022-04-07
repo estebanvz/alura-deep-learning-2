@@ -29,7 +29,7 @@ Cada una de estas clases, se encuentran en una branch independiente.
 
 Para poder ver cada una de las clases solo necesitas hacer clic en la parte 
 superior que dice **main**. Aparecerá una lista de branches.
-Una branch por cada clase de la 01 a la 07.
+Una branch por cada clase de la 01 a la 15.
 
 Después, aparecerá la clase en la lista de archivos. Solo es necesario acceder
 a la clase y hacer clic en **Open in Colab** 
